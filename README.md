@@ -1,4 +1,4 @@
-# Web-Mining-CSE-3024---Digital-Assignment-1
+# Web-Mining-CSE-3024--Project
 
 This is a project on " Application of Social Network Analysis to Investigate COVID-19 Transmission Among Contacts  "
 
